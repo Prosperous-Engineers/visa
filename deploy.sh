@@ -4,3 +4,4 @@ deploy in the dev env
 #Rectified mistake
 deployment5 master
 deployment4
+deploy to staging
