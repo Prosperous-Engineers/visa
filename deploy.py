@@ -2,3 +2,4 @@
 #echo "Hello world" = shell scripts
 #print('Hello world')= python script
 print('Hello world')
+# bugs removed
